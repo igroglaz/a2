@@ -1,23 +1,39 @@
 = Tangar's Hat =
 
-https://tangar.info/en/rom2
+https://rom2.ru
 
 Source files:
 https://github.com/igroglaz/a2mgr
 https://github.com/igroglaz/srvmgr
 https://github.com/igroglaz/redhat
 
+GAMEDESIGN:
+igroglaz
+
 PROGRAMMING:
 exc!ton
 ZZYZX
+serg.bloim
+WarBeginner
+igroglaz
+Zidane
+Kobik
+Zhuxus (не путать с Zhuxor)
+Zhuxor (не путать с Zhuxus)
+Giperborey
 
-Special thanks to 
+MAP DESIGN:
+igroglaz
+Nikolai
+Archo
+
+SPECIAL THANKS
 Anotomix
-
-Thanks
-Nikolay, WarBeginner,
-ILIUS, Zhuxus,
-Chariot & 
+Nikolay
+ILIUS
+Chariot
+Maxim
+be_my_father & 
 all alloders!
 
 
