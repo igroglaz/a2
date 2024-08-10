@@ -8,28 +8,28 @@ https://github.com/igroglaz/srvmgr
 https://github.com/igroglaz/redhat
 
 GAMEDESIGN:
-igroglaz
+igroglaz (Tangar Ag)
 
 PROGRAMMING:
 exc!ton
 ZZYZX
+igroglaz (Tangar Ag)
+ikacnep
 serg.bloim
 WarBeginner
-igroglaz
 Zidane
 Kobik
-Zhuxus (не путать с Zhuxor)
-Zhuxor (не путать с Zhuxus)
+Zhuxus (not to be confused with Zhuxor)
+Zhuxor (not to be confused with Zhuxus)
 Giperborey
 
 MAP DESIGN:
-igroglaz
+igroglaz (Tangar Ag)
 Nikolai
 Archo
 
 SPECIAL THANKS
 Anotomix
-Nikolay
 ILIUS
 Chariot
 Maxim

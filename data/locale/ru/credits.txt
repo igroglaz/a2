@@ -7,18 +7,34 @@ https://github.com/igroglaz/a2mgr
 https://github.com/igroglaz/srvmgr
 https://github.com/igroglaz/redhat
 
+ГЕЙМДИЗАЙН:
+igroglaz (Tangar Ag)
+
 ПРОГРАММИРОВАНИЕ:
 exc!ton
 ZZYZX
+igroglaz (Tangar Ag)
+ikacnep
+serg.bloim
+WarBeginner
+Zidane
+Kobik
+Zhuxus (not to be confused with Zhuxor)
+Zhuxor (not to be confused with Zhuxus)
+Giperborey
+
+ДИЗАЙН КАРТ:
+igroglaz (Tangar Ag)
+Nikolai
+Archo
 
 Отдельная благодарность 
 Anotomix
-
-Спасибо 
-Nikolay, WarBeginner,
-ILIUS, Zhuxus,
-Chariot и всем
-аллодерам!
+ILIUS
+Chariot
+Maxim
+be_my_father
+и всем аллодерам!
 
 
 
