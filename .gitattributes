@@ -1,2 +1,6 @@
 * binary
 *.txt diff
+*.bat diff
+*.ini diff
+*.cfg diff
+*.gitattributes diff
