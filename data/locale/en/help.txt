@@ -3,7 +3,7 @@ Hotkeys:
 ESC - menu
 F1 - help menu
 F2 - save game
-F3 - load game (single player) / diplomacy (multiplayer)
+` - diplomacy (key to the left from number 1)
 <~~> or <I> - open/close inventory
 <Q> or <B> - open/close spellbook
 <W> - open/close quest log (multiplayer only)
